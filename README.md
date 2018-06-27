@@ -9,11 +9,11 @@ midtern project
 <p>欲新增蝴蝶資料可依照以下class類別欄位名稱增加陣列</p>
 <img src="https://github.com/weasel0630/mid_project/blob/master/mid/Assets.xcassets/butterfly%20class.png" >
 
-```
+
 
 var butterfly1:[Butterfly] = [Butterfly(name:"昇天鳳蝶",scientific:"Pazala eurous",image:"butterfly1",food:"樟科植物",description:"本種幼蟲以樟科植物，如土肉桂等為食，一年一世代，成蟲主要在春季活動。",location:"分布於全島低海拔到中海拔山區。")
 
-```
+
    
 ## 參考資料
 <ol>
