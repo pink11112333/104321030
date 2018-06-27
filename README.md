@@ -7,7 +7,7 @@ midtern project
 
 ## Butterfly 類別
 <p>欲新增蝴蝶資料可依照以下class類別欄位名稱增加陣列</p>
-<img src="https://github.com/weasel0630/mid_project/blob/master/mid/Assets.xcassets/butterfly%20class.png" >
+<img src="https://ibb.co/kEBDPo" >
 
 
 
